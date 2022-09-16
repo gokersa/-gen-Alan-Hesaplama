@@ -1,1 +1,3 @@
-# -gen-Alan-Hesaplama
+# Ucgen-Alani-Hesaplama
+
+https://app.patika.dev/gsakin
